@@ -33,4 +33,16 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
