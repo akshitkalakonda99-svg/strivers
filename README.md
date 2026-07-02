@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -29,10 +31,12 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -51,4 +55,12 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 | [0450-delete-node-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0701-insert-into-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
