@@ -43,18 +43,21 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -76,4 +79,8 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
