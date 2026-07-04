@@ -24,11 +24,13 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +76,7 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -95,6 +98,7 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 | [0098-validate-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshitkalakonda99-svg/strivers/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Stack
 |  |
 | ------- |
