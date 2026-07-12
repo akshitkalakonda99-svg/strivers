@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitkalakonda99-svg/strivers/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1331-rank-transform-of-an-array](https://github.com/akshitkalakonda99-svg/strivers/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/akshitkalakonda99-svg/strivers/tree/master/3620-network-recovery-pathways) |
@@ -111,4 +112,12 @@ This repository contains my solutions to LeetCode problems from the Striver A2Z 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshitkalakonda99-svg/strivers/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/akshitkalakonda99-svg/strivers/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/akshitkalakonda99-svg/strivers/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
